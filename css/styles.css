@@ -1,0 +1,187 @@
+body{
+  background-color: black;
+  font-family: 'Montserrat-Black';
+}
+.fluid-container{
+  padding: 3% 15%;
+}
+
+#title {
+color: white;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 1.5
+  color: white;
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.navbar{
+  padding-bottom: 4rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: 'Montserrat-Light';
+  font-size: 1.5rem;
+}
+.cha {
+  margin: 20px 0 0 20px;
+}
+
+
+/* Feature */
+#features{
+  background-color: #F1F6F9;
+  padding: 90px;
+}
+
+.center {
+  text-align: center;
+  width: 100%;
+}
+
+.hh3{
+  font-size: 1.5rem;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  color: #222831;
+
+  line-height: 2;
+}
+.parag{
+  font-size: 1.10rem;
+  font-family: 'Montserrat';
+  font-weight: 200
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.inc{
+  padding: 3% 15%;
+}
+
+.hov:hover {
+  color: #4F8A8B;
+}
+
+/* Testimonials */
+#testimonials {
+  padding: 9% 10%;
+  text-align: center;
+  background-color: #222831;
+}
+.testimonial-text{
+  color: #fff;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  width: 10%;
+  height: auto;
+  margin: 15px;
+
+}
+
+.name{
+  color: #fff;
+  font-family: 'Montserrat-Bold';
+}
+
+.carousel-item {
+  padding: 9% 15%;
+}
+
+/* press */
+#press {
+  background-color: #F1F6F9;
+}
+
+.pree-img{
+  padding: 5% 15%;
+
+}
+.diff{
+  color: #222831;
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  padding-top: 30px;
+}
+
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+  background-color: #222831;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+  background-color: #222831;
+}
+
+.price-h{
+  color: #fff;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 60px;
+}
+.price-p{
+  color: #fff;
+  font-family: 'Montserrat';
+  font-size: 20px;
+
+}
+.headd{
+  font-family: 'Montserrat';
+  font-weight: 300;
+}
+.headdd{
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+
+
+#cta{
+  background-color: #F1F6F9;
+  padding: 9% 15%;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: 900;
+}
+
+.ppp {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.coll {
+  color: #2D4059;
+}
+
+#footer{
+  text-align: center;
+  padding: 10% 15%;
+  color: #fff;
+  background-color: #222831;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
